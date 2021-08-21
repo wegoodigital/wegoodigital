@@ -1,6 +1,10 @@
-👋 <b>Olá, sou Wegoo Agência Digital</b><br>
-💻 <b>Atuação:</b> Desenvolvimento de sites e sistemas personalizados.<br>
+<div style="width:100%">
+  <a href="https://github.com/wegoodigital">
+  <img style="float:left" height="180em" src="https://github-readme-stats.vercel.app/api?username=wegoodigital&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true">
+  <img style="float:left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wegoodigital&layout=compact&langs_count=7&theme=ayu-mirage">
+</div>
 
+##
 <div>
   <a href="https://wa.me/5554999494531" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://facebook.com/wegoodigital" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -17,20 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
-
-##
-<div>
-  <img src="https://aleen42.github.io/badges/src/illustrator.svg">
-  <img src="https://aleen42.github.io/badges/src/photoshop.svg">
-  <a href="https://www.behance.net/wegoodigital" target="_blank"><img src="https://aleen42.github.io/badges/src/behance.svg"></a>
-</div>
-
-##
-<div style="width:100%">
-  <a href="https://github.com/wegoodigital">
-  <img style="float:left" height="180em" src="https://github-readme-stats.vercel.app/api?username=wegoodigital&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true">
-  <img style="float:left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wegoodigital&layout=compact&langs_count=7&theme=ayu-mirage">
 </div>
 
 
